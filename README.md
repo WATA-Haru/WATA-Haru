@@ -25,8 +25,8 @@ exclude: Jupitor Notebook repository(ComparePadTextLogoToCropLogo)
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-three-lac-10.vercel.app/api?username=WATA-Haru&count_private=true&theme=vue" />
+  <img height=180 align="center" src="https://github-readme-stats-three-lac-10.vercel.app/api?username=WATA-Haru&count_private=true&theme=vue" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-three-lac-10.vercel.app/api/top-langs/?username=WATA-Haru&layout=compact&hide=html,css,jupyter%20notebook&theme=vue&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats-three-lac-10.vercel.app/api/top-langs/?username=WATA-Haru&layout=compact&hide=html,css,jupyter%20notebook&theme=vue&card_width=320" />
 </a>

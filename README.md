@@ -14,7 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- [readme stats](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WATA-Haru&count_private=true) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WATA-Haru)](https://github.com/anuraghazra/github-readme-stats)
+<!-- public: https://github-readme-stats.vercel.app/ -->
+<!-- private: https://github-readme-stats-three-lac-10.vercel.app -->
+<!--
+exclude: Jupitor Notebook repository(ComparePadTextLogoToCropLogo)
+
+![Anurag's GitHub stats](https://github-readme-stats-three-lac-10.vercel.app/api?username=WATA-Haru&count_private=true)
+![Top Langs](https://github-readme-stats-three-lac-10.vercel.app/api/top-langs/?username=WATA-Haru&exclude_repo=ComparePadTextLogoToCropLogo)
+-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-three-lac-10.vercel.app/api?username=WATA-Haru&count_private=true&theme=vue" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-three-lac-10.vercel.app/api/top-langs/?username=WATA-Haru&layout=compact&hide=html,css,jupyter%20notebook&theme=vue&card_width=320" />
+</a>

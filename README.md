@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 exclude: Jupitor Notebook repository(ComparePadTextLogoToCropLogo)
 
 ![Anurag's GitHub stats](https://github-readme-stats-51kh.vercel.app/api?username=WATA-Haru&count_private=true)
-![Top Langs](https://github-readme-stats-51kh.vercel.app/api/top-langs/?username=WATA-Haru&exclude_repo=ComparePadTextLogoToCropLogo)
+![Top Langs](https://github-readme-stats-51kh.vercel.app/api/top-langs/?username=WATA-Haru&exclude_repo=ComparePadTextLogoToCropLogo,obsidian-z-memo,obsidian-sync)
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

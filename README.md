@@ -28,5 +28,5 @@ exclude: Jupitor Notebook repository(ComparePadTextLogoToCropLogo)
   <img height=180 align="center" src="https://github-readme-stats-51kh.vercel.app/api?username=WATA-Haru&count_private=true&theme=vue" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats-51kh.vercel.app/api/top-langs/?username=WATA-Haru&layout=compact&hide=html,css,jupyter%20notebook&theme=vue&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats-51kh.vercel.app/api/top-langs/?username=WATA-Haru&layout=compact&hide=html,css,jupyter%20notebook&exclude_repo=ComparePadTextLogoToCropLogo,obsidian-z-memo,obsidian-sync&theme=vue&card_width=320" />
 </a>
